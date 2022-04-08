@@ -12,7 +12,8 @@
 * things
 
 1) this is 
-2) a list of 
+2) a list of
 3) ordered things
 
-` System.out.println("hello world"); `
+`System.out.println("hello world");`
+
