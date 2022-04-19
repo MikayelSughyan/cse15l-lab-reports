@@ -39,5 +39,5 @@ This last part of the lab we tried new things to see what would make our life ea
 
 `ssh cs15lsp22zz@ieng6.ucsd.edu "ls"`
 
-![](Lab1_img7.jpg)
+![](Lab1_img6.jpg)
 
