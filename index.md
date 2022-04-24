@@ -18,3 +18,5 @@
 `System.out.println("hello world");`
 
 Here is a link to [Lab Report 1](https://mikayelsughyan.github.io/cse15l-lab-reports/lab-report-1-week-2.html).
+
+Here is a link to [Lab Report 2](https://mikayelsughyan.github.io/cse15l-lab-reports/lab-report-2-week-4.html).
