@@ -5,6 +5,7 @@
 This first [code change](https://github.com/brandoluu/markdown-parser/commit/f44ffe3287744496674e448d201c023eb187b4f9) dealt with a String index out of bounds error.
 
 ![](picture1.png)
+
 As you can see in the commit message, the symptom of this file throws a String index out of bounds exception. We updated the code to support a file with no links.
 
 ## Code Change 2
