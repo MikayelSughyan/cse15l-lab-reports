@@ -31,4 +31,10 @@ Here we show where the private key is stored on the ieng6 server.
 
 # Group Choice 3
 
+The third and final group choice was to show how we can recursively copy entire directories onto the ssh server.
 
+Here is a photo that shows that I copied the directory into the server.
+![](Lab3GC3_SCP-R.PNG)
+
+Next screenshot shows compiling and running the files on the server
+![](Lab3GC3_RunOnServer.PNG)
