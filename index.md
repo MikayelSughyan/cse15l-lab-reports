@@ -25,4 +25,4 @@ Here is a link to [Lab Report 3](https://mikayelsughyan.github.io/cse15l-lab-rep
 
 Here is a link to [Lab Report 4](https://mikayelsughyan.github.io/cse15l-lab-reports/lab-report-4-week-8.html).
 
-Here is a link to [Lab Report 4](https://mikayelsughyan.github.io/cse15l-lab-reports/lab-report-5-week-10.html).
+Here is a link to [Lab Report 5](https://mikayelsughyan.github.io/cse15l-lab-reports/lab-report-5-week-10.html).
